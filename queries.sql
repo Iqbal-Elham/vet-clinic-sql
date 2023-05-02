@@ -41,6 +41,7 @@ select * from animals;
 rollback;
 select * from animals;
 
+begin;
 delete from animals 
 where date_of_birth > '2022-01-01';
 
