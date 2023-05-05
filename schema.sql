@@ -20,3 +20,4 @@ ALTER TABLE animals ADD column owner_id int;
 ALTER TABLE animals ADD CONSTRAINT fk_owners FOREIGN KEY(owner_id) REFERENCES owners(id);
 
 CREATE TABLE vets (id int primary key generated always as identity, name varchar(50), age int, date_of_graduation date);
+CREATE TABLE specializations ( species_id int, vets_id int, primary key(species_id, vets_id), CONSTRAINT fk_species FOREIGN key(species_id) REFERENCES species(id), CONSTRAINT fk_vets FOREIGN key(vets_id) REFERENCES vets(id));
