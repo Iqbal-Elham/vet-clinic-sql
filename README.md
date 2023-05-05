@@ -34,7 +34,7 @@
 # 📖 [Vet Clinic Database] <a name="about-project"></a>
 
 
-**[Vet Clinic Database]** is Database of a clinic.
+**[Vet Clinic Database]**  is a comprehensive software system designed to manage all aspects of a veterinary clinic's operations. The database is specifically tailored to meet the needs of veterinary clinics, providing a user-friendly interface for storing and accessing patient records, scheduling appointments, managing inventory, and processing payments
 
 ## 🛠 Built With <a name="built-with"></a>
 
