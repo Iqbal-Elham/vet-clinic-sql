@@ -34,7 +34,7 @@
 # 📖 [Vet Clinic Database] <a name="about-project"></a>
 
 
-**[Vet Clinic Database]** is Database of a clinic.
+**[Vet Clinic Database]**  is a comprehensive software system designed to manage all aspects of a veterinary clinic's operations. The database is specifically tailored to meet the needs of veterinary clinics, providing a user-friendly interface for storing and accessing patient records, scheduling appointments, managing inventory, and processing payments
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,7 +51,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- ** Develop more fields for the clinic **
+- Created a database named vet_clinic.
+- Created a table named animals with corresponding columns upon the requirements💯
+- Inserted data of 4 animals with the corresponding name, date_of_birth, weight, neutered status, and escape attempts👌
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -99,7 +101,8 @@ Clone this repository to your desired folder:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] **Making Improvment**
+- Create other tables for the project
+- Enhance some sql commands
 
 <!-- CONTRIBUTING -->
 
